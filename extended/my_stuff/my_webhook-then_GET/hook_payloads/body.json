@@ -1,0 +1,36 @@
+{
+    "message": "ServiceM8 webhook from invoice resource at Sun Jun 05 2022 22:22:03 GMT+0000 (Coordinated Universal Time)",
+    "event": {
+        "eventVersion": "1.0",
+        "eventName": "Webhook_Subscription",
+        "eventArgs": {
+            "object": "Attachment",
+            "entry": [
+                {
+                    "uuid": "12b2dae5-f6a0-4a0f-9bb9-1e91c62709db",
+                    "changed_fields": [
+                        "uuid",
+                        "edit_date",
+                        "active",
+                        "attachment_name",
+                        "file_type",
+                        "attachment_source",
+                        "timestamp",
+                        "related_object",
+                        "related_object_uuid"
+                    ],
+                    "time": "2022-06-05 22:21:46"
+                }
+            ],
+            "resource_url": "https://api.servicem8.com/api_1.0/Attachment/12b2dae5-f6a0-4a0f-9bb9-1e91c62709db.json"
+        },
+        "auth": {
+            "accountUUID": "7c4b67b8-c2b0-4ee6-a24a-1e91c60a645b",
+            "staffUUID": "b583683a-59d8-4167-93cc-1e91cf5c687b",
+            "accessToken": "68148-apse2-605c01cd84b7417b142270f4d2bb164042f09e8d",
+            "accessTokenExpiry": 900,
+            "accessScope": "read_jobs read_attachments"
+        }
+    },
+    "job": "{\"uuid\":\"12b2dae5-f6a0-4a0f-9bb9-1e91c62709db\",\"edit_date\":\"2022-06-05 22:21:46\",\"active\":1,\"attachment_name\":\"Your Company Name Invoice #SAMPLE\",\"file_type\":\".pdf\",\"photo_width\":\"0\",\"photo_height\":\"0\",\"attachment_source\":\"INVOICE\",\"lng\":0,\"lat\":0,\"tags\":\"\",\"signature_data\":false,\"created_by_staff_uuid\":\"b583683a-59d8-4167-93cc-1e91cf5c687b\",\"timestamp\":\"2022-06-05 22:21:46\",\"related_object\":\"job\",\"related_object_uuid\":\"d4059d40-2a45-48a5-be7f-1e91cf8e060b\"}"
+}

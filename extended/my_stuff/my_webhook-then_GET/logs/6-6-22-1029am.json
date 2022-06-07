@@ -1,0 +1,36 @@
+5/06/2022 10: 29 PM	START RequestId: c9283a28-cf87-4f68-b81f-5db4fbea4487 Version: $LATEST
+5/06/2022 10: 29 PM	2022-06-05T22: 29: 34.604Z c9283a28-cf87-4f68-b81f-5db4fbea4487 INFO Received event: {
+    "eventVersion": "1.0",
+    "eventName": "Webhook_Subscription",
+    "eventArgs": {
+        "object": "Attachment",
+        "entry": [
+            {
+                "uuid": "a174ee83-45a7-4cb2-9792-1e91c7a951cb",
+                "changed_fields": [
+                    "uuid",
+                    "edit_date",
+                    "active",
+                    "attachment_name",
+                    "file_type",
+                    "attachment_source",
+                    "timestamp",
+                    "related_object",
+                    "related_object_uuid"
+                ],
+                "time": "2022-06-05 22:29:18"
+            }
+        ],
+        "resource_url": "https://api.servicem8.com/api_1.0/Attachment/a174ee83-45a7-4cb2-9792-1e91c7a951cb.json"
+    },
+    "auth": {
+        "accountUUID": "7c4b67b8-c2b0-4ee6-a24a-1e91c60a645b",
+        "staffUUID": "b583683a-59d8-4167-93cc-1e91cf5c687b",
+        "accessToken": "68148-apse2-605c019529298bd3a9c150f9e6b47d550e628430",
+        "accessTokenExpiry": 900,
+        "accessScope": "read_jobs read_attachments"
+    }
+}
+5/06/2022 10: 29 PM	2022-06-05T22: 29: 34.604Z c9283a28-cf87-4f68-b81f-5db4fbea4487 INFO access_token is: 68148-apse2-605c019529298bd3a9c150f9e6b47d550e628430
+5/06/2022 10: 29 PM	2022-06-05T22: 29: 34.620Z c9283a28-cf87-4f68-b81f-5db4fbea4487 ERROR REQUEST { method: 'GET', url: 'https: //api.servicem8.com/api_1.0/Attachment/a174ee83-45a7-4cb2-9792-1e91c7a951cb.json', headers: { Accept: 'application/json', Authorization: 'Bearer 68148-apse2-605c019529298bd3a9c150f9e6b47d550e628430' }, callback: [Function] }
+    5/06/2022 10: 29 PM	2022-06-05T22: 29: 34.640Z c9283a28-cf87-4f68-b81f-5db4fbea4487 ERROR REQUEST make request https: //api.servicem8.com/api_1.0/Attachment/a174ee83-45a7-4cb2-9792-1e91c7a951cb.json 

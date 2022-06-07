@@ -1,0 +1,17 @@
+{
+    "uuid": "af30314d-20dd-41db-b07b-1e91c9a9524b",
+    "edit_date": "2022-06-05 19:36:33",
+    "active": 1,
+    "attachment_name": "Your Company Name Invoice #4",
+    "file_type": ".pdf",
+    "photo_width": "0",
+    "photo_height": "0",
+    "attachment_source": "INVOICE",
+    "lng": 0,
+    "lat": 0,
+    "tags": "",
+    "created_by_staff_uuid": "98711371-4a07-446b-a3d9-1e8fd79851bb",
+    "timestamp": "2022-06-05 19:36:33",
+    "related_object": "job",
+    "related_object_uuid": "00b083b4-09da-4e6d-9d67-1e91cdb42c0b"
+  }

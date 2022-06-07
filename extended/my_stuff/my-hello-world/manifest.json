@@ -1,0 +1,14 @@
+{
+	"name": "Hi mum",
+	"version": "1.0",
+	"iconURL": "https:\/\/www.servicem8.com\/images\/addon-sdk-sample-icon.png",
+	"supportURL": "https:\/\/oakla.github.io",
+	"supportEmail": "alex@oakl.me",
+	"actions": [{
+		"name": "MY Hello Action",
+		"type": "online",
+		"entity": "job",
+		"iconURL": "https:\/\/www.servicem8.com\/images\/addon-sdk-sample-icon.png",
+		"event": "Hello_World_Event"
+	}]
+}
